@@ -10,6 +10,9 @@ Some Assetto Corsa Fun Stuff
 
 ## Game Pad Setting
  - This one seems to work quite well on these cars (settings depend on cars as well) - https://www.youtube.com/watch?v=1T-Hl9qs-t8
+
+![GamePad Setting](GamePad.PNG)
+
  - acmc_impreza_time_attack
  - ks_nissan_gtr_gt3 (DLC pack)
  - rtm_subaru_cusco2008
